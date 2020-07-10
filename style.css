@@ -12,7 +12,7 @@ form{
    
     border-radius: 15px;
     
-    background-image: linear-gradient(90deg, blue,white,pink);
+    background-image: linear-gradient(360deg, white,gray,pink);
 }
 .container{
     text-align: center;
